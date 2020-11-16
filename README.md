@@ -1,4 +1,4 @@
-# SpeechToText-LanguageTranslator
+# SpeechToText and LanguageTranslator
 
 <h2>Table of Contents</h2>
 <ul>
