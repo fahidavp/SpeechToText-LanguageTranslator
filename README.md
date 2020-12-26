@@ -6,4 +6,4 @@
     <li>Language Translator</a></li>
 </ul>
 
-An audio file of an English speaker is converted to text using a Speech to Text API. Then translate the English version to a Spanish version using a Language Translator API
+An audio file of an English speaker is converted to text using IBM watson Speech to Text API. Then translate the English version to a Spanish, French and Arabic version using IBM watson Language Translator API
